@@ -5,9 +5,10 @@ This repository aims to show the study on carbon capture technology, and on the 
 ![Carbon capture with sodium silicate mesoporous silica aerogels](https://user-images.githubusercontent.com/58941489/105650975-4b835100-5e94-11eb-9ead-7ec82ce3eb4e.png)
 
 ### Extra points
-These filters can be used in petrochemical industries because in addition to reducing their CO2 emission, besides generating raw material for other products
-This aerogel have a CO2 absorption flux of 1.5 mmol/m2 s ¹ 
-Can be used at least 4 days
+- These filters can be used in petrochemical industries because in addition to reducing their CO2 emission, besides generating raw material for other products;
+- This aerogel have a CO2 absorption flux of 1.5 mmol/m2 s ¹ ;
+- Can be used at least 4 days;
+- Is more efficient than other membrane filters like PP;
 
 ### Notes
 
