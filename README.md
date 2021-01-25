@@ -12,6 +12,11 @@ This aerogel have a CO2 absorption flux of 1.5 mmol/m2 s ¹
 
 I will try to put new updates both of this and other technologies, whoever wants to help contact me
 
+### Disclaimer
+
+I'm not the creator of this technology, I'm just showing my vision and other ways of using them
+
+
 ### References
 
 Lin, Y.-F., Ko, C.-C., Chen, C.-H., Tung, K.-L., & Chang, K.-S.
