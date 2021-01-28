@@ -2,7 +2,8 @@
 This repository aims to show the study on carbon capture technology, and on the changes that I find interesting to make in them.
 
 ### Overview
-![Carbon capture with sodium silicate mesoporous silica aerogels](https://user-images.githubusercontent.com/58941489/105650975-4b835100-5e94-11eb-9ead-7ec82ce3eb4e.png)
+![Carbon capture with sodium silicate mesoporous silica aerogels (1)](https://user-images.githubusercontent.com/58941489/106204693-22b4d180-619c-11eb-9597-bc8a7640d27a.png)
+
 
 ![PARRATI](https://user-images.githubusercontent.com/58941489/105747636-c9406e80-5f1f-11eb-90b9-3dca5bbce8f3.jpg)
 
