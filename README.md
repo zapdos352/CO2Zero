@@ -12,7 +12,11 @@ This repository aims to show the study on carbon capture technology, and on the 
 - This aerogel have a CO2 absorption flux of 1.5 mmol/m2 s ¹ ;
 - Can be used at least 4 days;
 - Is more efficient than other membrane filters like PP;
-- You can create an X-membrane system to further increase the efficiency of the filter
+
+
+### Filter
+
+- You can create an "X" membrane system to further increase the efficiency of the filter, this method can further increase the efficiency of the membrane, thus enabling mass CO2 capture
 
 
 ### Notes
