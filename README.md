@@ -26,7 +26,7 @@ I will try to put new updates both of this and other technologies, whoever wants
 
 ### Disclaimer
 
-I'm not the creator of this technology, I'm just showing my vision and other ways of using them(otimization)
+I'm not the creator of this technology, I'm just showing my vision and other ways of using them(optimization)
 
 
 ### References
