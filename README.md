@@ -17,8 +17,8 @@ This repository aims to show the study on carbon capture technology, and on the 
 ### Ef
 A system like this membrane installed in a tank the size of a 40' container could capture the same amount of carbon* as 1 average hectare of eucalyptus in 7**
 
-* Whereas when at "x" at a 60% increase in the useful area of the membrane
-** https://www.cepea.esalq.usp.br/br/documentos/texto/levantamento-de-estimativas-de-absorcao-de-carbono-por-florestas-nativas-e-comerciais-no-brasil-aposter-apresentado-no-siicusp-de-2007.aspx
+*Whereas when at "x" at a 60% increase in the useful area of the membrane
+**https://www.cepea.esalq.usp.br/br/documentos/texto/levantamento-de-estimativas-de-absorcao-de-carbono-por-florestas-nativas-e-comerciais-no-brasil-aposter-apresentado-no-siicusp-de-2007.aspx
 
 ### Filter
 
