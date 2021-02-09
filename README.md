@@ -14,8 +14,8 @@ This repository aims to show the study on carbon capture technology, and on the 
 - Can be used at least 4 days;
 - Is more efficient than other membrane filters like PP;
 
-### Ef
-A system like this membrane installed in a tank the size of a 40' container could capture the same amount of carbon* as 1 average hectare of eucalyptus in 7**
+### Efficiency
+A system like this membrane installed in a tank the size of a 40' container could capture the same amount of carbon* as 1 average hectare of eucalyptus in 7 years**
 
 *Whereas when at "x" at a 60% increase in the useful area of the membrane
 **https://www.cepea.esalq.usp.br/br/documentos/texto/levantamento-de-estimativas-de-absorcao-de-carbono-por-florestas-nativas-e-comerciais-no-brasil-aposter-apresentado-no-siicusp-de-2007.aspx
@@ -32,6 +32,12 @@ I will try to put new updates both of this and other technologies, whoever wants
 ### Disclaimer
 
 I'm not the creator of this technology, I'm just showing my vision and other ways of using them(optimization)
+
+###Donates
+If you want donate for this project this is your bitcoin adress
+
+
+![Wallet](https://user-images.githubusercontent.com/58941489/107297010-41934d80-6a51-11eb-9854-b68f68337c03.png)
 
 
 ### References
