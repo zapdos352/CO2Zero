@@ -24,7 +24,8 @@ A system like this membrane installed in a tank the size of a 40' container coul
 
 - You can create an "X" membrane system to further increase the efficiency of the filter, this method can further increase the efficiency of the membrane, thus enabling mass CO2 capture
 
-
+### Gigaton capture
+  When a 0,066g/m2s capture efficency, we have 2T of CO2 per year per square meter, so for capture 1 gigaton of CO2 we need 500 Sqr Km, to capture 1 gigaton/year of CO2. Or 7380728 containers with X membrane system
 ### Notes
 
 I will try to put new updates both of this and other technologies, whoever wants to help contact me
