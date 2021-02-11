@@ -26,6 +26,9 @@ A system like this membrane installed in a tank the size of a 40' container coul
 
 ### Gigaton capture
   When a 0,066g/m2s capture efficency, we have 2T of CO2 per year per square meter, so for capture 1 gigaton of CO2 we need 500 Sqr Km, to capture 1 gigaton/year of CO2. Or 7380728 containers with X membrane system
+  
+### Prices
+  https://www.researchgate.net/publication/283581307_Low_cost_silica_aerogel_production
 ### Notes
 
 I will try to put new updates both of this and other technologies, whoever wants to help contact me
