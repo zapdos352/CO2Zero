@@ -28,7 +28,9 @@ A system like this membrane installed in a tank the size of a 40' container coul
   When a 0,066g/m2s capture efficency, we have 2T of CO2 per year per square meter, so for capture 1 gigaton of CO2 we need 500 Sqr Km, to capture 1 gigaton/year of CO2. Or 7380728 containers with X membrane system
   
 ### Prices
+  The average price per carbon credit is 4 dollars, so this system will yield about 4 billion a year
   https://www.researchgate.net/publication/283581307_Low_cost_silica_aerogel_production
+  https://secondnature.org/climate-action-guidance/purchasing-carbon-offsets-faqs/#:~:text=How%20much%20do%20carbon%20offsets,ton%20to%20>%2450%20per%20ton.
 ### Notes
 
 I will try to put new updates both of this and other technologies, whoever wants to help contact me
